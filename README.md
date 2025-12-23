@@ -1,7 +1,5 @@
 <!-- ====== HERO ====== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Backend%20Developer%20Portfolio&fontAlign=50&fontAlignY=40&color=gradient" />
-</p>
+
 
 <p align="center">
   <b>Backend Developer</b> focused on building <b>production-ready APIs</b>: auth, databases, testing, CI/CD, observability, and deployment.
@@ -27,7 +25,7 @@
 
 ---
 
-## Why me (30-second scan)
+## Why me 
 - **Production mindset:** clean architecture, validation, error handling, and structured logging
 - **Quality:** unit + integration tests, coverage targets, and CI gates
 - **Delivery:** Dockerized services with repeatable deployments
@@ -40,9 +38,9 @@
 
 ### 1) Core API — Auth + RBAC + Postgres (Flagship)
 **What it shows:** REST API design, auth (JWT), RBAC, migrations, testing strategy, CI/CD, deployment.  
-- Repo: `LINK_HERE`
-- Live demo: `LINK_HERE`
-- Docs (OpenAPI/Swagger): `LINK_HERE`
+- Repo: 
+- Live demo: 
+- Docs (OpenAPI/Swagger): 
 
 **Highlights**
 - JWT auth + role-based access control (RBAC)
@@ -54,8 +52,8 @@
 
 ### 2) Async Jobs / Events — Background workers
 **What it shows:** scalable backend patterns (queues, background processing), resilience, idempotency.  
-- Repo: `LINK_HERE`
-- Demo: `LINK_HERE`
+- Repo: 
+- Demo: 
 
 **Highlights**
 - Job queues, retries, dead-letter strategy (documented)
@@ -66,7 +64,7 @@
 
 ### 3) Observability Pack — Logs + Metrics + Health checks
 **What it shows:** professional operations: health endpoints, metrics, dashboards-ready output.  
-- Repo: `LINK_HERE`
+- Repo: 
 
 **Highlights**
 - Health checks (liveness/readiness)
@@ -91,63 +89,7 @@
 - CI/CD: lint + tests + build + deploy
 - Observability: logs, metrics, health checks
 
----
 
-## Proof
-### CI/CD checklist
-- [ ] Linting + formatting
-- [ ] Unit + Integration tests
-- [ ] Coverage report
-- [ ] Docker build
-- [ ] Deploy pipeline
-
-### Quality gates (target)
-- Unit tests for business logic
-- Integration tests for DB/API routes
-- Coverage target: **80%+** (adjust as needed)
-
----
-
-## Progress dashboard (visual)
-> These SVG charts render directly on GitHub.
-
-### Skills radar (static)
-<svg width="720" height="260" viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skill bars">
-  <style>
-    .title{font:700 18px system-ui,Segoe UI,Roboto; fill:#111}
-    .label{font:600 12px system-ui,Segoe UI,Roboto; fill:#333}
-    .bg{fill:#eef2ff}
-    .bar{fill:#4f46e5}
-  </style>
-  <text x="12" y="28" class="title">Backend Skill Snapshot</text>
-
-  <!-- Row 1 -->
-  <text x="12" y="70" class="label">API Design</text>
-  <rect x="130" y="56" width="560" height="16" rx="8" class="bg"/>
-  <rect x="130" y="56" width="420" height="16" rx="8" class="bar"/>
-
-  <!-- Row 2 -->
-  <text x="12" y="104" class="label">Databases (Postgres)</text>
-  <rect x="130" y="90" width="560" height="16" rx="8" class="bg"/>
-  <rect x="130" y="90" width="380" height="16" rx="8" class="bar"/>
-
-  <!-- Row 3 -->
-  <text x="12" y="138" class="label">Testing</text>
-  <rect x="130" y="124" width="560" height="16" rx="8" class="bg"/>
-  <rect x="130" y="124" width="340" height="16" rx="8" class="bar"/>
-
-  <!-- Row 4 -->
-  <text x="12" y="172" class="label">CI/CD & Delivery</text>
-  <rect x="130" y="158" width="560" height="16" rx="8" class="bg"/>
-  <rect x="130" y="158" width="320" height="16" rx="8" class="bar"/>
-
-  <!-- Row 5 -->
-  <text x="12" y="206" class="label">Observability</text>
-  <rect x="130" y="192" width="560" height="16" rx="8" class="bg"/>
-  <rect x="130" y="192" width="260" height="16" rx="8" class="bar"/>
-
-  <text x="12" y="244" class="label">Update the bar widths as you progress (0–560).</text>
-</svg>
 
 
 
