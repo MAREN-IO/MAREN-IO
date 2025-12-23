@@ -1,4 +1,20 @@
 <!-- ====== HERO ====== -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+  <tr>
+    <td align="center">
+      <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Python%20Developer&fontAlign=50&fontAlignY=40&fontSize=52&color=gradient" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+           width="80"
+           height="80"
+           alt="Python Logo" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 <p align="center">
