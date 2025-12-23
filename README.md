@@ -149,44 +149,6 @@
   <text x="12" y="244" class="label">Update the bar widths as you progress (0–560).</text>
 </svg>
 
----
-
-## What recruiters usually care about (and where to look)
-- **Architecture & decisions:** see each project README → “Architecture” + “Tradeoffs”
-- **Testing & quality:** `tests/` + CI checks in Actions
-- **Delivery:** Dockerfile + pipeline + live deploy link
-- **Communication:** concise docs, clear setup, reproducible runs
-
----
-
-## Local setup (template)
-```bash
-# clone
-git clone YOUR_REPO_URL
-cd YOUR_REPO
-
-# create venv
-python -m venv .venv
-source .venv/bin/activate
-
-# install
-pip install -r requirements.txt
-
-# run
-uvicorn app.main:app --reload
 
 
-<!--
-**MAREN-IO/MAREN-IO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
